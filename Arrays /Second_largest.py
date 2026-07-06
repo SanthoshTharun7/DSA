@@ -1,6 +1,6 @@
 arr = [12, 7, 25, 18, 5]
 largest = arr[0]
-second = float (' -inf')
+second = float ('-inf')
 for i in range (5):
     if ( arr[i] > largest ):
         second = largest
